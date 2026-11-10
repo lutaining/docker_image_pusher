@@ -1,4 +1,4 @@
-mcr.microsoft.com/dotnet/aspnet:10.0
-mcr.microsoft.com/dotnet/aspnet:9.0
-mcr.microsoft.com/dotnet/aspnet:8.0
-suoten/protoforge:latest
+milvusdb/milvus:v2.5.12
+mcr.microsoft.com/dotnet/sdk:10.0
+mcr.microsoft.com/dotnet/sdk:9.0
+mcr.microsoft.com/dotnet/sdk:8.0
